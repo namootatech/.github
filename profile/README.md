@@ -51,10 +51,7 @@ While our focus is on technology, our greatest satisfaction comes from the posit
 2. **Siavista Electrical**  
    This platform supports emergency services and project management, allowing Siavista Electrical to deliver high-quality service seamlessly.
 
-3. **Music Loopy**  
-   An innovative space for creative collaboration, Music Loopy allows users to remix and share music seamlessly, fostering artistic expression.
-
-4. **Warner Music Africa - Culture Shifters**  
+3. **Warner Music Africa - Culture Shifters**  
    Dedicated to connecting artists and promoting creative works across Africa, this platform celebrates and nurtures cultural contributions.
 
 **Why Choose Us?**
